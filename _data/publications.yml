@@ -1,5 +1,15 @@
 main:
 
+  - title: "Representation Learning with Conditional Information Flow Maximization"
+    authors: Dou Hu, <strong>Lingwei Wei(*)</strong>, Wei Zhou, Songlin Hu(*).
+    conference_short: ACL'24
+    conference: The 62nd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2406.05510.pdf
+    code: https://github.com/zerohd4869/CIFM
+    bibtex:
+    image: ./assets/img/teaser_acl24.png
+    notes: CCF-A, Accepted
+
   - title: "Semantic-Propagation Structure Transfer Learning for Robust Fake News Detection"
     authors: Mengyang Chen, <strong>Lingwei Wei(*)</strong>, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu
     conference_short: ECML'24
