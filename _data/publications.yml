@@ -1,0 +1,82 @@
+main:
+
+  - title: "Semantic-Propagation Structure Transfer Learning for Robust Fake News Detection"
+    authors: Mengyang Chen, <strong>Lingwei Wei(*)</strong>, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu
+    conference_short: ECML'24
+    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2024.
+    pdf:
+    code:
+    bibtex:
+    image: ./assets/img/teaser_ecml24.png
+    notes: CCF-B, Accepted
+
+  - title: "Multi-source Knowledge Enhanced Graph Attention Networks for Multimodal Fact Verification"
+    authors: Han Cao, <strong>Lingwei Wei(*)</strong>, Wei Zhou, Songlin Hu
+    conference_short: ICME'24
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
+    pdf:
+    code:
+    bibtex:
+    image: ./assets/img/teaser_icme24.png
+    notes: CCF-B, Accepted
+
+  - title: "Transferring Structure Knowledge: A New Task to Fake News Detection towards Cold-Start Propagation"
+    authors: <strong>Lingwei Wei</strong>, Dou Hu, Wei Zhou, Songlin Hu
+    conference_short: ICASSP'24
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10447588
+    code:
+    bibtex:
+    image: ./assets/img/teaser_icassp24.png
+    notes: CCF-B
+
+  - title: "Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach"
+    authors: <strong>Lingwei Wei</strong>, Dou Hu, Wei Zhou, Xin Wang, Songlin Hu
+    conference_short: TNNLS'24
+    conference:  IEEE Transaction Neural Networks Learning System <strong>(TNNLS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/document/9837882/
+    code:
+    bibtex: https://dblp.org/rec/journals/tnn/WeiHZWH24.html?view=bibtex
+    image: ./assets/img/teaser_tnnls24.png
+    notes: SCI-Q1, CCF-B
+
+  - title: "Modeling Both Intra- and Inter-Modality Uncertainty for Multimodal Fake News Detection"
+    authors: <strong>Lingwei Wei</strong>, Dou Hu, Wei Zhou, Songlin Hu
+    conference_short: TMM'23
+    conference:  IEEE Transaction Multimedia <strong>(TMM)</strong>, 2023.
+    pdf: https://doi.org/10.1109/TMM.2022.3229966
+    code:
+    bibtex: https://dblp.org/rec/journals/tmm/WeiHZH23.html?view=bibtex
+    image: ./assets/img/teaser_tnnls24.png
+    notes: SCI-Q1, CCF-B
+
+  - title: "Uncertainty-aware Propagation Structure Reconstruction for Fake News Detection"
+    authors: <strong>Lingwei Wei</strong>, Dou Hu, Wei Zhou, Songlin Hu
+    conference_short: COLING'22
+    conference: The 29th International Conference on Computational Linguistics <strong>(COLING)</strong>, 2022.
+    pdf: https://aclanthology.org/2022.coling-1.243.pdf
+    code:
+    bibtex: https://dblp.org/rec/conf/coling/Wei00H22.html?view=bibtex
+    image: ./assets/img/teaser_coling22_1.png
+    notes: CCF-B
+
+  - title: "A Unified Propagation Forest-based Framework for Fake News Detection"
+    authors: <strong>Lingwei Wei</strong>, Dou Hu, Yantong Lai, Wei Zhou, Songlin Hu
+    conference_short: COLING'22
+    conference: The 29th International Conference on Computational Linguistics <strong>(COLING)</strong>, 2022.
+    pdf: https://aclanthology.org/2022.coling-1.244.pdf
+    code:
+    bibtex: https://dblp.org/rec/conf/coling/Wei0L0H22.html?view=bibtex
+    image: ./assets/img/teaser_coling22_2.png
+    notes: CCF-B
+
+  - title: "Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection"
+    authors: <strong>Lingwei Wei</strong>, Dou Hu, Yantong Lai, Wei Zhou, Songlin Hu
+    conference_short: ACL'21
+    conference: The 29th International Conference on Computational Linguistics <strong>(COLING)</strong>, 2022.
+    pdf: https://doi.org/10.18653/v1/2021.acl-long.297.pdf
+    code: https://paperswithcode.com/paper/?acl=2021.acl-long.297
+    video: https://aclanthology.org/2021.acl-long.297.mp4
+    bibtex: https://dblp.org/rec/conf/acl/WeiHZYH20.html?view=bibtex
+    image: ./assets/img/teaser_acl21.png
+    notes: CCF-A, Oral Presentation
