@@ -83,8 +83,8 @@ main:
   - title: "Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection"
     authors: <strong>Lingwei Wei</strong>, Dou Hu, Yantong Lai, Wei Zhou, Songlin Hu
     conference_short: ACL'21
-    conference: The 29th International Conference on Computational Linguistics <strong>(COLING)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2107.11934.pdf
+    conference: The 59th Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2021.
+    pdf: https://aclanthology.org/2021.acl-long.297.pdf 
     code: https://github.com/weilingwei96/EBGCN
     video: https://aclanthology.org/2021.acl-long.297.mp4
     bibtex: https://dblp.org/rec/conf/acl/WeiHZYH20.html?view=bibtex
