@@ -74,8 +74,8 @@ main:
     authors: <strong>Lingwei Wei</strong>, Dou Hu, Yantong Lai, Wei Zhou, Songlin Hu
     conference_short: ACL'21
     conference: The 29th International Conference on Computational Linguistics <strong>(COLING)</strong>, 2022.
-    pdf: https://doi.org/10.18653/v1/2021.acl-long.297.pdf
-    code: https://paperswithcode.com/paper/?acl=2021.acl-long.297
+    pdf: https://arxiv.org/pdf/2107.11934.pdf
+    code: https://github.com/weilingwei96/EBGCN
     video: https://aclanthology.org/2021.acl-long.297.mp4
     bibtex: https://dblp.org/rec/conf/acl/WeiHZYH20.html?view=bibtex
     image: ./assets/img/teaser_acl21.png
