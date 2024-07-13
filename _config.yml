@@ -8,7 +8,7 @@ email: weilingwei@iie.ac.cn
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: weilingwei
 description: Research Assistant Professor (tenure-track) at Institute of Information Engineering, Chinese Academy of Sciences. Research interests include NLP and GNNs
-canonical: https://weilingwei.github.io/
+canonical: https://weilingwei96.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -45,7 +45,7 @@ google_analytics: UA-111540567-4
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 # yaoyao-liu/minimal-light  
-remote_theme: weilingwei96/weilingwei.github.io
+remote_theme: weilingwei96/weilingwei96.github.io
 
 # The following files will be removed from the generated website.
 exclude:
