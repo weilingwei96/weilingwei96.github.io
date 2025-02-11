@@ -4,12 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a (tenure-track) *Research Assistant Professor* at Institute of Information Engineering, Chinese Academy of Sciences.
-I received the B.S. degree from University of Science and Technology Beijing (USTB) in June 2018, 
-and the Ph.D. degree (Supervisor: Prof. [Songlin Hu](https://people.ucas.edu.cn/~husonglin)) from University of Chinese Academy of Sciences in June 2023. 
+I am currently an *Assistant Researcher* at Institute of Information Engineering, Chinese Academy of Sciences.
+I received the Ph.D. degree (Supervisor: Prof. [Songlin Hu](https://people.ucas.edu.cn/~husonglin)) from University of Chinese Academy of Sciences in June 2023, and the B.S. degree from University of Science and Technology Beijing (USTB) in June 2018. 
 My main research focuses on natural language processing and graph learning. 
-
-
 
 
 ## Research Interests
