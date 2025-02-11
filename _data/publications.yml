@@ -8,27 +8,27 @@ main:
     code: https://github.com/zerohd4869/CIFM
     bibtex:
     image: ./assets/img/teaser_acl24.png
-    notes: CCF-A, Accepted
+    notes: CCF-A
 
   - title: "Semantic-Propagation Structure Transfer Learning for Robust Fake News Detection"
     authors: Mengyang Chen, <strong>Lingwei Wei(*)</strong>, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu
     conference_short: ECML'24
     conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2024.
-    pdf:
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-70368-3_14
     code:
     bibtex:
     image: ./assets/img/teaser_ecml24.png
-    notes: CCF-B, Accepted
+    notes: CCF-B
 
   - title: "Multi-source Knowledge Enhanced Graph Attention Networks for Multimodal Fact Verification"
     authors: Han Cao, <strong>Lingwei Wei(*)</strong>, Wei Zhou, Songlin Hu
     conference_short: ICME'24
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
-    pdf:
+    pdf: https://ieeexplore.ieee.org/abstract/document/10687974
     code:
     bibtex:
     image: ./assets/img/teaser_icme24.png
-    notes: CCF-B, Accepted
+    notes: CCF-B
 
   - title: "Transferring Structure Knowledge: A New Task to Fake News Detection towards Cold-Start Propagation"
     authors: <strong>Lingwei Wei</strong>, Dou Hu, Wei Zhou, Songlin Hu
